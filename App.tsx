@@ -11,7 +11,6 @@ import {
   Jost_400Regular,
   Jost_600SemiBold
 } from '@expo-google-fonts/jost'
-import AsyncStorage from '@react-native-async-storage/async-storage'
 
 export default function App() {
   const [fontsLoaded] = useFonts({
